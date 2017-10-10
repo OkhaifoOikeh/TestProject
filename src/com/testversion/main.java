@@ -9,8 +9,9 @@ public class main {
 	
 	
 	public static void Calculator(int val1, int val2){
-		System.out.println("Addition: "+(val1+val2));
 		System.out.println("Sub: "+(val1 - val2));
+		System.out.println("Mul: "+(val1 * val2));
+		System.out.println("Divide "+(val1 / val2));
 	}
 
 }
